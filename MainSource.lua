@@ -13,7 +13,7 @@ local Items = {
 }
 
 local LoadLocal = false
-local MainLink = LoadLocal and "" or "https://raw.githubusercontent.com/adkostatt/Strategies-X/ae6c29acec6d2f34e83687f060f3e502e83c4a38/TDS/"
+local MainLink = LoadLocal and "" or "https://raw.githubusercontent.com/shater0mat/TDS_autofarm/refs/heads/main/"
 
 local OldTime = os.clock()
 
